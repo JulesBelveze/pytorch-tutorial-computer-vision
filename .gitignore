@@ -64,3 +64,6 @@ scratch/
 
 #data 
 exercises/data/
+
+# model
+hotdog_nothotdog/hotdog.pth
