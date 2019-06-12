@@ -64,6 +64,8 @@ scratch/
 
 #data 
 exercises/data/
+digits_detection/data/
 
 # model
 hotdog_nothotdog/hotdog.pth
+digits_detection/digit_classifier.pth
