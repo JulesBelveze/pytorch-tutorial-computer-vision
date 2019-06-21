@@ -65,6 +65,8 @@ scratch/
 #data 
 exercises/data/
 digits_detection/data/
-
+PH2\ Dataset\ images/
+nuclei_segmentation/data/
 # models
 *.pth
+
