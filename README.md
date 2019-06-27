@@ -10,4 +10,4 @@ Code is run on a <i>GeForce GTX TITAN X 12GB</i> GPU
 - Hotdog / nothotdog classifier
 - Digits detection using sliding windows
 - Nuclei segmentation inspired from the <a href="https://www.kaggle.com/c/data-science-bowl-2018/" target="_blank">2018 Data Science Bowl</a>
-
+- CycleGAN that converts horses to zebras and vice versa
