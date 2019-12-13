@@ -2,7 +2,8 @@
 <p>
 Repository containing various small projects implemented using PyTorch related to: <b>Deep Learning in Computer Vision</b>.
 Each project contains a report that gathers the needed theoritical background and the different implementation's steps.
-Code is run on a <i>GeForce GTX TITAN X 12GB</i> GPU
+Code is run on a <i>GeForce GTX TITAN X 12GB</i> GPU.
+The results are sometimes relatively bad but the aim here is to understand the main concepts.
 <p>
 
 ## Content
